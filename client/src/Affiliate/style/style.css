@@ -1,0 +1,25 @@
+.affiliate-main {
+    background-color: #121212;
+    min-height: 100%;
+}
+
+.affiliate-section {
+    margin-top: 100px !important;
+    background-color: #121212;
+    padding-top: 0 !important;
+}
+
+.affiliate-header {
+    text-align: center;
+    padding: 10px;
+}
+
+.affiliate-header-title {
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.affiliate-header-content {
+    font-size: 16px;
+}

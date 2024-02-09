@@ -1,0 +1,250 @@
+@media(min-width:767px) {
+    .mbile.log-in-btn {
+        display: none;
+    }
+
+    .promotion-botton-wrap {
+        min-width: 200px;
+    }
+
+    .table-bottom li:not(:first-child) {
+        display: flex;
+        justify-content: center;
+    }
+
+    .basic-mode .box-odds {
+        width: 120px;
+        height: 50px;
+    }
+
+}
+
+@media(max-width:1000px) {
+    .navbar-collapse {
+        display: none !important;
+    }
+
+    .navbar-mobile {
+        overflow: auto;
+    }
+
+    .navbar-nav .nav-link {
+        padding: 12px 15px;
+        font-size: 10px;
+    }
+
+    .responsive-v {
+        display: none;
+    }
+
+    .side-bar {
+        display: none;
+    }
+
+    .join, .log-in-btn {
+        font-size: 11px;
+        padding-left: 7px;
+        padding-right: 10px;
+        float: left;
+        margin-right: 5px;
+    }
+
+    .header-top .navbar-toggler {
+        float: right;
+    }
+
+
+
+
+    .navbar-mobile .nav-item.active {
+        /* border: none; */
+    }
+
+    /* .navbar-nav .nav-item:hover {
+    border: none;
+  } */
+    .fabrt-d {
+        display: none;
+    }
+
+    .navbar-mobile .navbar-nav i {
+        left: inherit;
+        display: block;
+        font-size: 19px;
+        text-align: center;
+        margin-bottom: 7px;
+    }
+}
+
+@media(max-width:767px) {
+
+    /* .join{ display:none;} */
+    .email-d {
+        display: none;
+    }
+
+    .frgt-pswrd {
+        display: none;
+    }
+
+    .pswd-d {
+        display: none;
+    }
+
+    .logo {
+        /* padding-top: 0; */
+    }
+
+    .footer-inner {
+        width: 47%;
+        margin-bottom: 20px;
+    }
+
+    .table-list li:nth-child(1) {
+        width: 140px;
+        min-width: 140px;
+    }
+
+    .flex-wr {
+        flex-wrap: wrap;
+    }
+
+    .footer-heading {
+        font-size: 16px;
+        margin-bottom: 3px;
+        color: rgb(52, 59, 72);
+    }
+
+    footer {
+        padding: 30px 0;
+        position: relative;
+    }
+
+    .table-list li:nth-child(2) {
+        width: 72px;
+        min-width: 72px;
+    }
+
+    .table-list li:nth-child(3) {
+        width: 72px;
+        min-width: 72px;
+    }
+
+    .table-list li:nth-child(4) {
+        width: 72px;
+        min-width: 72px;
+    }
+
+    .basic-mode .table-list li:nth-child(2) {
+        width: 200px;
+        min-width: 200px;
+    }
+
+    .basic-mode .table-list li:nth-child(3) {
+        width: 200px;
+        min-width: 200px;
+    }
+
+    .basic-mode .table-list li:nth-child(4) {
+        width: 200px;
+        min-width: 200px;
+    }
+
+    .basic-box-odds .bet-type {
+        font-size: 10px;
+        letter-spacing: 2px;
+    }
+
+    .box-odds:not(:first-child) {
+        margin-left: 0;
+    }
+
+    .box-odds {
+        height: 56px;
+    }
+
+    .header-top {
+        background: #121212;
+    }
+
+    .highlights .sportslist-container {
+        background-color: #f1f3f7;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 4px;
+        z-index: 1;
+    }
+
+    .date_bottombar_container_dashboard {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 87px;
+        z-index: 1;
+    }
+
+    .date_bottombar_container {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 60px;
+        z-index: 1;
+    }
+
+    .footer-main.show {
+        display: block !important;
+    }
+
+    .box-odds {
+        font-weight: 400 !important;
+    }
+
+    .table-list>li:nth-child(2), .table-list>li:nth-child(3) {
+        border-right: none;
+    }
+
+    .table-list>li:nth-child(2), .table-list>li:nth-child(3), .table-list>li:nth-child(4) {
+        padding: 0 6px;
+    }
+
+    .leagues-content {
+        overflow: hidden;
+    }
+
+    .leagues-content.basic-mode {
+        overflow: auto;
+    }
+
+    .sports-scroller {
+        /* display: none !important; */
+    }
+
+    .promotion-botton {
+        background-color: #f1f3f7;
+        color: #000;
+    }
+
+    .header-bottom {
+        display: none;
+    }
+
+    .articleV2 .title {
+        font-size: 20px;
+    }
+
+    .bet-type-league {
+        font-size: 13px;
+    }
+
+    .invite-logo {
+        position: absolute;
+        clip: rect(100px, 762px, 420px, 0);
+        margin-top: -100px;
+    }
+
+    .invite-title {
+        font-size: 30px;
+    }
+
+    .invite-form {
+        margin-top: 320px;
+    }
+}
