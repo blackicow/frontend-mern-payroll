@@ -1,1 +1,1 @@
-# frontend-mern-payroll
+# payroll-mern-stack
