@@ -1,0 +1,70 @@
+@import "./_metronic/_assets/sass/themes/layout/header/base/light.scss";
+@import "./_metronic/_assets/sass/themes/layout/header/menu/light.scss";
+@import "./_metronic/_assets/sass/themes/layout/brand/dark.scss";
+@import "./_metronic/_assets/sass/themes/layout/aside/dark.scss";
+@import "./_metronic/_assets/sass/layout/_variables.scss";
+@import "./_metronic/_assets/sass/layout/_base.scss";
+
+@import "./_metronic/_assets/sass/vendors/react/material-ui/_general.scss";
+
+@import
+    "./_metronic/_assets/sass/vendors/plugins/_formvalidation.scss",
+    // "./_metronic/_assets/sass/vendors/plugins/dropzone",
+    "./_metronic/_assets/sass/vendors/plugins/_perfect-scrollbar.scss",
+    "./_metronic/_assets/sass/vendors/plugins/_prismjs.scss",
+    "./_metronic/_assets/sass/vendors/plugins/_apexcharts.scss";
+
+@import
+    "./_metronic/_assets/sass/components/_utilities.scss",
+    // "./_metronic/_assets/sass/components/burger-icon",
+    "./_metronic/_assets/sass/components/_card.scss",
+    "./_metronic/_assets/sass/components/_wizard.scss",
+    "./_metronic/_assets/sass/components/_type.scss",
+    // "./_metronic/_assets/sass/components/breadcrumb",
+    // "./_metronic/_assets/sass/components/nav",
+    "./_metronic/_assets/sass/components/_alert.scss",
+    // "./_metronic/_assets/sass/components/buttons",
+    "./_metronic/_assets/sass/components/_code.scss",
+    "./_metronic/_assets/sass/components/_dropdown.scss",
+    // "./_metronic/_assets/sass/components/forms",
+    "./_metronic/_assets/sass/components/_grid.scss",
+    "./_metronic/_assets/sass/components/_modal.scss",
+    "./_metronic/_assets/sass/components/_progress.scss",
+    "./_metronic/_assets/sass/components/_table.scss",
+    // "./_metronic/_assets/sass/components/popover",
+    "./_metronic/_assets/sass/components/_tooltip.scss",
+    "./_metronic/_assets/sass/components/_accordion.scss",
+    "./_metronic/_assets/sass/components/_datatable.scss",
+    "./_metronic/_assets/sass/components/_checkbox.scss",
+    "./_metronic/_assets/sass/components/_radio.scss",
+    "./_metronic/_assets/sass/components/_switch.scss",
+    "./_metronic/_assets/sass/components/_option.scss",
+    "./_metronic/_assets/sass/components/_dialog.scss",
+    "./_metronic/_assets/sass/components/_strikethrough.scss",
+    "./_metronic/_assets/sass/components/_separator.scss",
+    "./_metronic/_assets/sass/components/_image-input.scss",
+    "./_metronic/_assets/sass/components/_label.scss",
+    "./_metronic/_assets/sass/components/_loader.scss",
+    "./_metronic/_assets/sass/components/_symbol.scss",
+    "./_metronic/_assets/sass/components/_pulse.scss",
+    "./_metronic/_assets/sass/components/_page-loader.scss",
+    "./_metronic/_assets/sass/components/_quick-search.scss",
+    "./_metronic/_assets/sass/components/_scrolltop.scss",
+    "./_metronic/_assets/sass/components/_spinner.scss",
+    "./_metronic/_assets/sass/components/_sticky-toolbar.scss",
+    "./_metronic/_assets/sass/components/_svg-icon.scss",
+    "./_metronic/_assets/sass/components/_svg.scss",
+    "./_metronic/_assets/sass/components/_timeline.scss",
+    "./_metronic/_assets/sass/components/_timeline-2.scss",
+    "./_metronic/_assets/sass/components/_timeline-3.scss",
+    "./_metronic/_assets/sass/components/_timeline-4.scss",
+    "./_metronic/_assets/sass/components/_timeline-5.scss",
+    "./_metronic/_assets/sass/components/_timeline-6.scss",
+    "./_metronic/_assets/sass/components/_overlay.scss",
+    "./_metronic/_assets/sass/components/_wave.scss",
+    "./_metronic/_assets/sass/components/_list.scss",
+    "./_metronic/_assets/sass/components/_bullet.scss",
+    "./_metronic/_assets/sass/components/_navi.scss",
+    "./_metronic/_assets/sass/components/_ribbon.scss",
+    "./_metronic/_assets/sass/components/_offcanvas.scss",
+    "./_metronic/_assets/sass/components/_toggle.scss";
